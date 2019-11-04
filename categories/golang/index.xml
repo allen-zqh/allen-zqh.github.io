@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GoLang on Qiuhan Zhao&#39;s Blog</title>
+    <link>https://allen-zqh.github.io/categories/golang/</link>
+    <description>Recent content in GoLang on Qiuhan Zhao&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    
+	<atom:link href="https://allen-zqh.github.io/categories/golang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>lala</title>
+      <link>https://allen-zqh.github.io/blog/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://allen-zqh.github.io/blog/first/</guid>
+      <description>This is a test This is a test</description>
+    </item>
+    
+  </channel>
+</rss>
