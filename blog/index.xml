@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on </title>
+    <title>Blogs on Zhao Qiuhan</title>
     <link>https://allen-zqh.github.io/blog/</link>
-    <description>Recent content in Blogs on </description>
+    <description>Recent content in Blogs on Zhao Qiuhan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     
@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>lala</title>
+      <title>Resume</title>
       <link>https://allen-zqh.github.io/blog/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
