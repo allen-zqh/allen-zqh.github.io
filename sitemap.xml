@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://allen-zqh.github.io/</loc>
+  </url>
+  
+  <url>
     <loc>https://allen-zqh.github.io/blog/</loc>
   </url>
   
@@ -32,10 +36,6 @@
   
   <url>
     <loc>https://allen-zqh.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://allen-zqh.github.io/</loc>
   </url>
   
 </urlset>
