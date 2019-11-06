@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhao Qiuhan</title>
-    <link>https://allen-zqh.github.io/</link>
-      <atom:link href="https://allen-zqh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://allen-zqh.github.io/authors/admin/</link>
+      <atom:link href="https://allen-zqh.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhao Qiuhan</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2019</copyright>
     <image>
       <url>https://allen-zqh.github.io/img/icon-192.png</url>
       <title>Zhao Qiuhan</title>
-      <link>https://allen-zqh.github.io/</link>
+      <link>https://allen-zqh.github.io/authors/admin/</link>
     </image>
     
   </channel>

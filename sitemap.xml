@@ -3,7 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://allen-zqh.github.io/blog/</loc>
+    <loc>https://allen-zqh.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://allen-zqh.github.io/authors/</loc>
   </url>
   
   <url>
@@ -11,23 +15,19 @@
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/tags/development/</loc>
+    <loc>https://allen-zqh.github.io/post/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/categories/development/</loc>
+    <loc>https://allen-zqh.github.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/categories/golang/</loc>
+    <loc>https://allen-zqh.github.io/publication/</loc>
   </url>
   
   <url>
-    <loc>https://allen-zqh.github.io/tags/golang/</loc>
-  </url>
-  
-  <url>
-    <loc>https://allen-zqh.github.io/blog/first/</loc>
+    <loc>https://allen-zqh.github.io/talk/</loc>
   </url>
   
   <url>
